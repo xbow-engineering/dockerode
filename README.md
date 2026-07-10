@@ -360,6 +360,7 @@ container.attach({
 Amazing entities that [sponsor](https://github.com/sponsors/apocas) my open-source work. Check them out!
 
 [![HTTP Toolkit](https://avatars.githubusercontent.com/u/39777515?s=100)](https://github.com/httptoolkit)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxbow-engineering%2Fdockerode.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxbow-engineering%2Fdockerode?ref=badge_shield)
 
 ## Documentation
 
@@ -527,3 +528,6 @@ Licensed under the Apache license, version 2.0 (the "license"); You may not use 
     http://www.apache.org/licenses/LICENSE-2.0.html
 
 Unless required by applicable law or agreed to in writing, software distributed under the license is distributed on an "as is" basis, without warranties or conditions of any kind, either express or implied. See the license for the specific language governing permissions and limitations under the license.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxbow-engineering%2Fdockerode.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxbow-engineering%2Fdockerode?ref=badge_large)
